@@ -19,10 +19,10 @@ The challenge_video.mp4 video is an extra (and optional) challenge for you if yo
 If you're feeling ambitious (again, totally optional though), don't stop there! We encourage you to go out and take video of your own, calibrate your camera and show us how you would implement this project from scratch!
 
 # The-Environment
-Windows 10
-Google Colab
-Python 3.10.10
-OpenCV 4.7.0
+1)Windows 10
+2)Google Colab
+3)Python 3.10.10
+4)OpenCV 4.7.0
 
 # Conclusion
 This program used to create a pipeline that can detects lane boundaries, predicts upcoming curves, and measures lane curvature.
