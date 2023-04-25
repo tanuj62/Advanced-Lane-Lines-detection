@@ -1,3 +1,4 @@
+![Screenshot (142)](https://user-images.githubusercontent.com/114990781/234195668-d72e6ec3-d1e2-42d7-b814-86eb7cd0ba5e.png)
 # Advanced-Lane-Lines-detection
 In this project, I used Python and OpenCV to detect lane lines on the road. I developed a processing pipeline that works on a series of individual images, and applied the result to a video stream.
 
