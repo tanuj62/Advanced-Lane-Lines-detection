@@ -57,16 +57,8 @@ class FindLaneLines:
         out_clip.write_videofile(output_path, audio=False)
 
 def main():
-    args = docopt(__doc__)
-    input = args['INPUT_PATH']
-    output = args['OUTPUT_PATH']
-
     findLaneLines = FindLaneLines()
-    if args['--video']:
-        findLaneLines.process_video(input, output)
-    else:
-        findLaneLines.process_image(input, output)
-
+    findLaneLines.process_video("challenge_video.mp4","output.mp4")
 
 if __name__ == "__main__":
     main()
