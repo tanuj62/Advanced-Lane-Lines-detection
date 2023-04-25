@@ -21,7 +21,7 @@ If you're feeling ambitious (again, totally optional though), don't stop there! 
 # The-Environment
 Windows 10
 Google Colab
-Python 3.10.10op
+Python 3.10.10
 OpenCV 4.7.0
 
 # Conclusion
