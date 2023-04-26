@@ -1,6 +1,6 @@
 name: carnd
 dependencies:
-    - python==3.6.9
+    - python==3.10.10
     - numpy
     - matplotlib
     - jupyter
